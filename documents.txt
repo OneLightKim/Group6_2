@@ -1,0 +1,1 @@
+The factors of the SoC drop over time are derived from the electric vehicle driving data and a solution is presented.
